@@ -10,12 +10,12 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 **B.Tech CSE** @ Indian Institute of Information Technology, Nagpur - graduating in May 2027
+- **B.Tech CSE** @ Indian Institute of Information Technology, Nagpur - graduating in May 2027
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Python, C/C++, JavaScript, TypeScript
 
